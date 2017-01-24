@@ -1,6 +1,6 @@
 <h1/>Forum in Terminal </h1>
 <h2/>Introduction </h2>
-A full functioning forum on terminal with sub forums, threads and posts. Supports users with different permissions (visitor, registered user, moderator, admin). Save and load functions for the hole forum and user database to files. The menu is it greek.
+A full functioning forum on terminal with sub forums, threads and posts. Supports users with different permissions (visitor, registered user, moderator, admin). Save and load functions for the hole forum and user database to files. The menu is in greek.
 <h2/>Compile</h2>
 g++ -o theForum main.cpp admin.cpp admin.h forum.cpp forum.h moderator.cpp moderator.h person.cpp person.h post.cpp post.h registerUser.cpp registerUser.h system.cpp system.h thread.cpp thread.h 
 <h2/>Run	</h2></h2>
